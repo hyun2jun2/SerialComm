@@ -1,0 +1,6 @@
+../Core/Src/uart_dev.c:20:7:SerialHandler	8	static
+../Core/Src/uart_dev.c:34:6:USART1_RingBuffer_Init	8	static
+../Core/Src/uart_dev.c:55:9:write_Rx_RingBuffer	16	static
+../Core/Src/uart_dev.c:66:9:read_Rx_RingBuffer	16	static
+../Core/Src/uart_dev.c:78:9:write_Tx_RingBuffer	16	static
+../Core/Src/uart_dev.c:89:9:read_Tx_RingBuffer	16	static
